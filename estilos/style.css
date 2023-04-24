@@ -12,11 +12,15 @@ html, body {
     background-color: black;
 }
 
+body {
+    
+    background-image: url('../imagens/fundo-madeira.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
 main {
     height: 100vh;
     position: relative;
-    background-image: url('../imagens/fundo-madeira.jpg');
-    background-size: cover;
 }
 
 section#telefone {
