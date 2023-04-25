@@ -15,7 +15,6 @@ body {
 }
 img {
     width: 100vw;
-    overflow-y: hidden;  
 }
 a {
     margin: -10px;
